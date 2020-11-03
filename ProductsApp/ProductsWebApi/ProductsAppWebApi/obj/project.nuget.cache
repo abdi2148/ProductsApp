@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5JrVZHJr5e+12RxtbT4W9iXhP/0rck2EUQ7OhqkX1uyhhMOsCZM8NJodhkez/wObFz840i+UquRUNhHEvMFbHQ==",
+  "dgSpecHash": "X1HVsZEAN8YNUoi9krZ5frRfGCtZAjTd0AXqrPLSTWSb3pYBfMlOhDkFuY+PctDPOUYWtVPrI1X76y3ivfLR3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\CSharp projects\\ProductsApp\\ProductsWebApi\\ProductsAppWebApi\\ProductsAppWebApi.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsWebApi\\ProductsAppWebApi\\ProductsAppWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

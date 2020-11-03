@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\CSharp projects\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities.csproj",
       "projectName": "ProductsApp.Core.Entities",
-      "projectPath": "C:\\Users\\PC\\Desktop\\CSharp projects\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities.csproj",
+      "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\CSharp projects\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

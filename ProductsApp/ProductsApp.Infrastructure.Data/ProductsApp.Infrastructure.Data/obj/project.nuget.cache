@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UvTmZFOgebHXBWnNBhcl3BdWgUjlPN0n0Q5h4P/CHpx6CdMYlnFIp6GZ8vO9EAYZjrURxoEArXGn0J9S8QBpvw==",
+  "dgSpecHash": "Uvlhic0sWiTIGV1rqC/Q4x7eNj1Ku9rLD39bw6BeVbPr++6n7MaWRfPP1a/IbP+dUVWU4QLNehn1g/ewyC0sRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\CSharp projects\\ProductsApp\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wHhCa1a56bkvJ6rAmp2MnHHwHexuBzHNbKpwbTRY4RoWCDdSjLgZl/LdKH+0aZNxqsmG+/eQzGfsR8o2mmj2SA==",
+  "dgSpecHash": "vhu33zFDgOVhnp47YNgM7gv/9SF5UY35UXtjwg62IYzcW7axDdEIFY6MQF2jl/EuhZdAXdop8W+g3gT8K0w/bQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\CSharp projects\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

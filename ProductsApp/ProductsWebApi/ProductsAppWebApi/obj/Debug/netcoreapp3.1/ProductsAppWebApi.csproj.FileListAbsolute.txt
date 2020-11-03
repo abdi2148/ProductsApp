@@ -1,0 +1,5 @@
+C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsWebApi\ProductsAppWebApi\obj\Debug\netcoreapp3.1\ProductsAppWebApi.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsWebApi\ProductsAppWebApi\obj\Debug\netcoreapp3.1\ProductsAppWebApi.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsWebApi\ProductsAppWebApi\obj\Debug\netcoreapp3.1\ProductsAppWebApi.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsWebApi\ProductsAppWebApi\obj\Debug\netcoreapp3.1\ProductsAppWebApi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsWebApi\ProductsAppWebApi\obj\Debug\netcoreapp3.1\ProductsAppWebApi.MvcApplicationPartsAssemblyInfo.cache

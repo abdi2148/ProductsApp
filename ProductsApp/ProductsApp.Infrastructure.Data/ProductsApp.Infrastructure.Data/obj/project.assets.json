@@ -1593,11 +1593,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\CSharp projects\\ProductsApp\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data.csproj",
       "projectName": "ProductsApp.Infrastructure.Data",
-      "projectPath": "C:\\Users\\PC\\Desktop\\CSharp projects\\ProductsApp\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data.csproj",
+      "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\CSharp projects\\ProductsApp\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1613,11 +1613,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\PC\\Desktop\\CSharp projects\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities.csproj": {
-              "projectPath": "C:\\Users\\PC\\Desktop\\CSharp projects\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities.csproj"
+            "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities.csproj": {
+              "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities.csproj"
             },
-            "C:\\Users\\PC\\Desktop\\CSharp projects\\ProductsApp\\ProductsApp.Core\\ProductsApp.Core\\ProductsApp.Core.csproj": {
-              "projectPath": "C:\\Users\\PC\\Desktop\\CSharp projects\\ProductsApp\\ProductsApp.Core\\ProductsApp.Core\\ProductsApp.Core.csproj"
+            "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core\\ProductsApp.Core\\ProductsApp.Core.csproj": {
+              "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core\\ProductsApp.Core\\ProductsApp.Core.csproj"
             }
           }
         }
