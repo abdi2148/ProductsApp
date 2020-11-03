@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Data\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\ProductsApp.Core.Entities\ProductsApp.Core.Entities\ProductsApp.Core.Entities.csproj" />
+    <ProjectReference Include="..\..\ProductsApp.Core\ProductsApp.Core\ProductsApp.Core.csproj" />
+    <ProjectReference Include="..\..\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data.csproj" />
+  </ItemGroup>
+
+
+</Project>
