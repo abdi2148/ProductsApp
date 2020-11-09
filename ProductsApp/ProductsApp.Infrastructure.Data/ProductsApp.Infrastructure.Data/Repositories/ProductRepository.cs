@@ -21,9 +21,9 @@ namespace ProductsApp.Infrastructure.Data.Repositories
 
         public Product CreateProduct(Product product)
         {
-            Product pro = _context.Products.Add(product).Entity;
+            Product prod = _context.Products.Add(product).Entity;
             _context.SaveChanges();
-            return pro;
+            return prod;
         }
 
         public Product DeleteProduct(int id)
@@ -44,7 +44,7 @@ namespace ProductsApp.Infrastructure.Data.Repositories
 
         public Product GetProductById(int id)
         {
-            return _context.Products.FirstOrDefault(pro => pro.id == id);
+            return _context.Products.FirstOrDefault(prod => prod.id == id);
         }
 
         public IEnumerable<Product> ReadAllProducts()
