@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data.csproj": {}
+    "C:\\Users\\hp\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities.csproj": {
+    "C:\\Users\\hp\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities.csproj",
         "projectName": "ProductsApp.Core.Entities",
-        "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\obj\\",
+        "projectPath": "C:\\Users\\hp\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -56,17 +56,17 @@
         }
       }
     },
-    "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core\\ProductsApp.Core\\ProductsApp.Core.csproj": {
+    "C:\\Users\\hp\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core\\ProductsApp.Core\\ProductsApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core\\ProductsApp.Core\\ProductsApp.Core.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core\\ProductsApp.Core\\ProductsApp.Core.csproj",
         "projectName": "ProductsApp.Core",
-        "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core\\ProductsApp.Core\\ProductsApp.Core.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core\\ProductsApp.Core\\obj\\",
+        "projectPath": "C:\\Users\\hp\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core\\ProductsApp.Core\\ProductsApp.Core.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core\\ProductsApp.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities.csproj": {
-                "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities.csproj"
+              "C:\\Users\\hp\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities.csproj": {
+                "projectPath": "C:\\Users\\hp\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities.csproj"
               }
             }
           }
@@ -112,17 +112,17 @@
         }
       }
     },
-    "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data.csproj": {
+    "C:\\Users\\hp\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data.csproj",
         "projectName": "ProductsApp.Infrastructure.Data",
-        "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data\\obj\\",
+        "projectPath": "C:\\Users\\hp\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Infrastructure.Data\\ProductsApp.Infrastructure.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -135,11 +135,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities.csproj": {
-                "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities.csproj"
+              "C:\\Users\\hp\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities.csproj": {
+                "projectPath": "C:\\Users\\hp\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities\\ProductsApp.Core.Entities.csproj"
               },
-              "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core\\ProductsApp.Core\\ProductsApp.Core.csproj": {
-                "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core\\ProductsApp.Core\\ProductsApp.Core.csproj"
+              "C:\\Users\\hp\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core\\ProductsApp.Core\\ProductsApp.Core.csproj": {
+                "projectPath": "C:\\Users\\hp\\Documents\\GitHub\\ProductsApp\\ProductsApp\\ProductsApp.Core\\ProductsApp.Core\\ProductsApp.Core.csproj"
               }
             }
           }
@@ -160,6 +160,10 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.9, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             }
           },
           "imports": [

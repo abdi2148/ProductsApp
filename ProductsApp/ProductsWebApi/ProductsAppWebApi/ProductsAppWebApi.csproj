@@ -5,6 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.9" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.8.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\..\ProductsApp.Core.Entities\ProductsApp.Core.Entities\ProductsApp.Core.Entities.csproj" />
     <ProjectReference Include="..\..\ProductsApp.Core\ProductsApp.Core\ProductsApp.Core.csproj" />
     <ProjectReference Include="..\..\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data.csproj" />

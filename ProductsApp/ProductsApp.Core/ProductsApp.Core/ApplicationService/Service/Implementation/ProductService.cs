@@ -9,10 +9,10 @@ namespace ProductsApp.Core.ApplicationServices.Services.Implementation
 {
     public class ProductService : IProductService
     {
-        private readonly IProductRepository _productRepo;
+        private readonly IUserRepository _productRepo;
         public static IEnumerable<Product> productList;
 
-        public ProductService(IProductRepository productRepo)
+        public ProductService(IUserRepository productRepo)
         {
             _productRepo = productRepo;
         }

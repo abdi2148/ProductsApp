@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ProductsApp.Core.DomainServices
 {
-    public interface IProductRepository
+    public interface IProductRepository<Product>
     {
         IEnumerable<Product> ReadAllProducts();
 

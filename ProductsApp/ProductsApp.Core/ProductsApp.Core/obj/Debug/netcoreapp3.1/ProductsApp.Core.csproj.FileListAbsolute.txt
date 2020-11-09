@@ -2,3 +2,7 @@ C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Core\ProductsAp
 C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Core\ProductsApp.Core\obj\Debug\netcoreapp3.1\ProductsApp.Core.AssemblyInfoInputs.cache
 C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Core\ProductsApp.Core\obj\Debug\netcoreapp3.1\ProductsApp.Core.AssemblyInfo.cs
 C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Core\ProductsApp.Core\obj\Debug\netcoreapp3.1\ProductsApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Core\ProductsApp.Core\obj\Debug\netcoreapp3.1\ProductsApp.Core.csprojAssemblyReference.cache
+C:\Users\hp\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Core\ProductsApp.Core\obj\Debug\netcoreapp3.1\ProductsApp.Core.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Core\ProductsApp.Core\obj\Debug\netcoreapp3.1\ProductsApp.Core.AssemblyInfo.cs
+C:\Users\hp\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Core\ProductsApp.Core\obj\Debug\netcoreapp3.1\ProductsApp.Core.csproj.CoreCompileInputs.cache

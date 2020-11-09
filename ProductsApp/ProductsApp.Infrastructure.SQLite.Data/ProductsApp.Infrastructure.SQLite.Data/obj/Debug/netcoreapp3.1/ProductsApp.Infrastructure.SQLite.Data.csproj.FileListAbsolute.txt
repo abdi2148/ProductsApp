@@ -1,0 +1,4 @@
+C:\Users\hp\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.SQLite.Data\ProductsApp.Infrastructure.SQLite.Data\obj\Debug\netcoreapp3.1\ProductsApp.Infrastructure.SQLite.Data.csprojAssemblyReference.cache
+C:\Users\hp\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.SQLite.Data\ProductsApp.Infrastructure.SQLite.Data\obj\Debug\netcoreapp3.1\ProductsApp.Infrastructure.SQLite.Data.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.SQLite.Data\ProductsApp.Infrastructure.SQLite.Data\obj\Debug\netcoreapp3.1\ProductsApp.Infrastructure.SQLite.Data.AssemblyInfo.cs
+C:\Users\hp\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.SQLite.Data\ProductsApp.Infrastructure.SQLite.Data\obj\Debug\netcoreapp3.1\ProductsApp.Infrastructure.SQLite.Data.csproj.CoreCompileInputs.cache
