@@ -1,0 +1,4 @@
+C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Core.Entities\ProductsApp.Core.Entities\obj\Release\netcoreapp3.1\ProductsApp.Core.Entities.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Core.Entities\ProductsApp.Core.Entities\obj\Release\netcoreapp3.1\ProductsApp.Core.Entities.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Core.Entities\ProductsApp.Core.Entities\obj\Release\netcoreapp3.1\ProductsApp.Core.Entities.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Core.Entities\ProductsApp.Core.Entities\obj\Release\netcoreapp3.1\ProductsApp.Core.Entities.csproj.CoreCompileInputs.cache
