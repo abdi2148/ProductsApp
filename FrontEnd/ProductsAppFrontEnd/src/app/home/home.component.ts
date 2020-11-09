@@ -1,6 +1,6 @@
 ﻿import { Component, OnInit } from '@angular/core';
-import { TodoItem } from '../_models/todoitem';
-import { TodoItemService } from '../_services/todoitem.service';
+import { Product } from '../_models/product';
+import { ProductService } from '../_services/product.service';
 import { AuthenticationService } from '../_services/authentication.service';
 
 @Component({
@@ -8,20 +8,20 @@ import { AuthenticationService } from '../_services/authentication.service';
 })
 
 export class HomeComponent implements OnInit {
-    todoitems: TodoItem[] = [];
+    products: Product[] = [];
     username: string;
     errormessage: string = '';
 
-    constructor(private todoItemService: TodoItemService, private authService: AuthenticationService) {
+    constructor(private productService: ProductService, private authService: AuthenticationService) {
       this.username = authService.getUsername();
     }
 
     ngOnInit() {
         // get users from secure api end point
-        this.todoItemService.getItems()
+        this.productService.getProducts()
             .subscribe(
-              items => {
-                this.todoitems = items;
+              products => {
+                this.products = products;
               },
               error => {
                 this.errormessage = error.message;

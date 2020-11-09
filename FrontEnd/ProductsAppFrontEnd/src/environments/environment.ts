@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-  apiUrl: 'https://localhost:5001'
-  // apiUrl: 'https://todoapi-hk-easv.azurewebsites.net'
+  apiUrl: 'https://localhost:44340'
+  // apiUrl: 'http://abdiproducts.azurewebsites.net/'
 };
 
 /*
