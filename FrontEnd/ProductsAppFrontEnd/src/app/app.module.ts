@@ -8,7 +8,7 @@ import { AuthGuard } from './_guards/auth.guard';
 import { AuthenticationService } from './_services/authentication.service';
 import { LoginComponent } from './login/login.component';
 import { HomeComponent } from './home/home.component';
-import {TodoItemService} from './_services/todoitem.service';
+import {ProductService} from './_services/product.service';
 
 @NgModule({
   imports: [
@@ -25,7 +25,7 @@ import {TodoItemService} from './_services/todoitem.service';
   providers: [
     AuthGuard,
     AuthenticationService,
-    TodoItemService
+    ProductService
   ],
   bootstrap: [AppComponent]
 })
