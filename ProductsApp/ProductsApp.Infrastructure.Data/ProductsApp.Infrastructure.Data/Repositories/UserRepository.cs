@@ -6,7 +6,7 @@ using System.Text;
 
 namespace ProductsApp.Infrastructure.Data.Repositories
 {
-    public class UserRepository : IUserRepository<User>
+    public class UserRepository : IUserRepository
     {
         readonly DbContext _context;
         public UserRepository(DbContext context)

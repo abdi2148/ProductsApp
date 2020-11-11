@@ -10,9 +10,9 @@ namespace ProductsAppWebApi.Controllers
     [Route("/token")]
     public class TokenController : Controller
     {
-        private readonly IUserRepository<User> repository;
+        private readonly IUserRepository repository;
         private IAuthenticationHelper authenticationHelper;
-        public TokenController(IUserRepository<User> repos)
+        public TokenController(IUserRepository repos)
         {
             repository = repos;
         }

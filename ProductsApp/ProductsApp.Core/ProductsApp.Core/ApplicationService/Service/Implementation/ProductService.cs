@@ -1,6 +1,7 @@
 ﻿using ProductsApp.Core.DomainServices;
 using ProductsApp.Core.Entities;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
@@ -9,10 +10,10 @@ namespace ProductsApp.Core.ApplicationServices.Services.Implementation
 {
     public class ProductService : IProductService
     {
-        private readonly IUserRepository _productRepo;
-        public static IEnumerable<Product> productList;
+        private readonly IProductRepository _productRepo;
+        public static IEnumerable productList;
 
-        public ProductService(IUserRepository productRepo)
+        public ProductService(IProductRepository productRepo)
         {
             _productRepo = productRepo;
         }
@@ -70,7 +71,6 @@ namespace ProductsApp.Core.ApplicationServices.Services.Implementation
             }
             return _productRepo.UpdateProduct(product);
         }
-
 
     }
 }

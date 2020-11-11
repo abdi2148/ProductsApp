@@ -7,7 +7,7 @@ using System.Text;
 
 namespace ProductsApp.Infrastructure.Data.Repositories
 {
-    public class ProductRepository : IProductRepository<Product>
+    public class ProductRepository : IProductRepository
 
     {
         readonly DbContext _context;

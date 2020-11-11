@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ProductsApp.Core.DomainServices
 {
-    public interface IUserRepository<User>
+    public interface IUserRepository
     {
         IEnumerable<User> ReadAllUsers();
 
