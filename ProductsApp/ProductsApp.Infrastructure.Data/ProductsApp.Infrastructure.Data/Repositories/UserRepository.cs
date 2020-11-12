@@ -35,7 +35,7 @@ namespace ProductsApp.Infrastructure.Data.Repositories
 
         public IEnumerable<User> ReadAllUsers()
         {
-            throw new NotImplementedException();
+            return _context.Users;
         }
 
         public User UpdateUser(User updateUser)

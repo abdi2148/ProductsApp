@@ -27,9 +27,9 @@ namespace ProductsApp.Infrastructure.Data.Repositories
             return prod;
         }
 
-        public Product DeleteProduct(int id)
+        public Product DeleteProduct(int Id)
         {
-            Product p = GetAllProducts().Find(x => x.id == id);
+            Product p = GetAllProducts().Find(x => x.Id == Id);
             GetAllProducts().Remove(p);
             if (p != null)
             {
@@ -43,9 +43,9 @@ namespace ProductsApp.Infrastructure.Data.Repositories
             return _context.Products.ToList();
         }
 
-        public Product GetProductById(int id)
+        public Product GetProductById(int Id)
         {
-            return _context.Products.FirstOrDefault(prod => prod.id == id);
+            return _context.Products.FirstOrDefault(prod => prod.Id == Id);
         }
 
         public IEnumerable<Product> ReadAllProducts()
@@ -55,7 +55,7 @@ namespace ProductsApp.Infrastructure.Data.Repositories
 
         public Product UpdateProduct(Product updateProduct)
         {
-            var product = GetProductById(updateProduct.id);
+            var product = GetProductById(updateProduct.Id);
             if (product != null)
             {
                 product.Name = updateProduct.Name;

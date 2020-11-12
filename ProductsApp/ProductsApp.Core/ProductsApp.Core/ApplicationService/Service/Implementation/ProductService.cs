@@ -67,7 +67,7 @@ namespace ProductsApp.Core.ApplicationServices.Services.Implementation
 
             if (product == null)
             {
-                throw new InvalidDataException("Did not find the product with the following ID:" + product.id);
+                throw new InvalidDataException("Did not find the product with the following ID:" + product.Id);
             }
             return _productRepo.UpdateProduct(product);
         }

@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Text;
 
 namespace ProductsApp.Core.Entities
 {
     public class Product
     {
-        public int id { get; set; }
+        public int Id { get; set; }
 
         public string Name { get; set; }
 
@@ -17,6 +18,9 @@ namespace ProductsApp.Core.Entities
         public string Type { get; set; }
 
         public DateTime CreatedDate { get; set; }
+
+        [Required]
+        public bool IsComplete { get; set; }
 
     }
 }

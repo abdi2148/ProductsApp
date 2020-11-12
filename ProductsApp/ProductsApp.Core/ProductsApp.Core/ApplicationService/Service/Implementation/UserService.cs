@@ -5,19 +5,32 @@ using System.Text;
 
 namespace ProductsApp.Core.ApplicationServices.Services.Implementation
 {
-    public interface IProductService
+    public class UserService : IUserService
     {
-        public List<Product> GetProducts();
+        public User CreateUser(User user)
+        {
+            throw new NotImplementedException();
+        }
 
-        Product ProductCreate(string name, double price, string color, string type, DateTime createdDate);
+        public User DeleteUser(int id)
+        {
+            throw new NotImplementedException();
+        }
 
-        Product CreateProduct(Product product);
+        public List<User> GetUsers()
+        {
+            throw new NotImplementedException();
+        }
 
-        Product UpdateProduct(Product product);
+        public User ReadById(int id)
+        {
+            throw new NotImplementedException();
+        }
 
-        Product DeleteProduct(int id);
-
-        Product ReadById(int id);
+        public User UpdateUser(User user)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
 

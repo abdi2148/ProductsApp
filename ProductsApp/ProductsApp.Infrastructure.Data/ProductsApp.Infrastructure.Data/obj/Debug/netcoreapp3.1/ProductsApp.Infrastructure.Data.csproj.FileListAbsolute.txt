@@ -20,10 +20,6 @@ C:\Users\PC\Desktop\CSharp projects\ProductsApp\ProductsApp.Infrastructure.Data\
 C:\Users\PC\Desktop\CSharp projects\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 C:\Users\PC\Desktop\CSharp projects\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Users\PC\Desktop\CSharp projects\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\ProductsApp.Infrastructure.Data.csprojAssemblyReference.cache
-C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\ProductsApp.Infrastructure.Data.AssemblyInfoInputs.cache
-C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\ProductsApp.Infrastructure.Data.AssemblyInfo.cs
-C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\ProductsApp.Infrastructure.Data.csproj.CoreCompileInputs.cache
 C:\Users\hp\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\ProductsApp.Infrastructure.Data.csprojAssemblyReference.cache
 C:\Users\hp\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\ProductsApp.Infrastructure.Data.AssemblyInfoInputs.cache
 C:\Users\hp\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\ProductsApp.Infrastructure.Data.AssemblyInfo.cs
@@ -41,3 +37,20 @@ C:\Users\hp\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.
 C:\Users\hp\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\ProductsApp.Infrastructure.Data.dll
 C:\Users\hp\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\ProductsApp.Infrastructure.Data.pdb
 C:\Users\hp\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\ProductsApp.Infrastructure.Data.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\bin\Debug\netcoreapp3.1\ProductsApp.Infrastructure.Data.deps.json
+C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\bin\Debug\netcoreapp3.1\ProductsApp.Infrastructure.Data.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\bin\Debug\netcoreapp3.1\ProductsApp.Infrastructure.Data.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\bin\Debug\netcoreapp3.1\ProductsApp.Infrastructure.Data.dll
+C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\bin\Debug\netcoreapp3.1\ProductsApp.Infrastructure.Data.pdb
+C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\bin\Debug\netcoreapp3.1\ProductsApp.Core.dll
+C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\bin\Debug\netcoreapp3.1\ProductsApp.Core.Entities.dll
+C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\bin\Debug\netcoreapp3.1\ProductsApp.Core.Entities.pdb
+C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\bin\Debug\netcoreapp3.1\ProductsApp.Core.pdb
+C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\ProductsApp.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\ProductsApp.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\ProductsApp.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\ProductsApp.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\ProductsApp.Infrastructure.Data.csproj.CopyComplete
+C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\ProductsApp.Infrastructure.Data.dll
+C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\ProductsApp.Infrastructure.Data.pdb
+C:\Users\PC\Documents\GitHub\ProductsApp\ProductsApp\ProductsApp.Infrastructure.Data\ProductsApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\ProductsApp.Infrastructure.Data.genruntimeconfig.cache

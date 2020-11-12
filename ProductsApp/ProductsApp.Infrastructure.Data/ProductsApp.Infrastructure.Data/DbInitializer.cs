@@ -9,8 +9,6 @@ namespace ProductsApp.Infrastructure.Data
 {
     public class DbInitializer : IDbInitializer
     {
-        private readonly IUserRepository _productRepository;
-
 
         public void Initialize(DbContext context)
         {
