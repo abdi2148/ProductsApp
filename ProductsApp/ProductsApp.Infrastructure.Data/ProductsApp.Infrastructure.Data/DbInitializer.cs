@@ -10,7 +10,7 @@ namespace ProductsApp.Infrastructure.Data
     public class DbInitializer : IDbInitializer
     {
 
-        public void Initialize(DbContext context)
+        public void Initialize(ProductsAppContext context)
         {
             context.Database.EnsureDeleted();
             context.Database.EnsureCreated();

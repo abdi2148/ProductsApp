@@ -10,12 +10,12 @@ namespace ProductsApp.Infrastructure.Data.Repositories
     public class ProductRepository : IProductRepository
 
     {
-        readonly DbContext _context;
+        readonly ProductsAppContext _context;
 
         public static int ProductId = 1;
         private static List<Product> _productList = new List<Product>();
 
-        public ProductRepository(DbContext context)
+        public ProductRepository(ProductsAppContext context)
         {
             _context = context;
         }

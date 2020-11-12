@@ -11,7 +11,7 @@ namespace ProductsApp.Infrastructure.SQLite.Data
     public class SqLiteDbInitializer : IDbInitializer
     {
         // This method will cre<ate and seed the database.
-        public void Initialize(Infrastructure.Data.DbContext context)
+        public void Initialize(ProductsAppContext context)
         {
             // Delete the database, if it already exists. You need to clean and build
             // the solution for this to take effect.

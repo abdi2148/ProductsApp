@@ -8,8 +8,8 @@ namespace ProductsApp.Infrastructure.Data.Repositories
 {
     public class UserRepository : IUserRepository
     {
-        readonly DbContext _context;
-        public UserRepository(DbContext context)
+        readonly ProductsAppContext _context;
+        public UserRepository(ProductsAppContext context)
         {
             _context = context;
         }

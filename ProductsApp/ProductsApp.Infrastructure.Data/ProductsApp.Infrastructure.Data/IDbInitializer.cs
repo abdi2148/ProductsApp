@@ -6,6 +6,6 @@ namespace ProductsApp.Infrastructure.Data
 {
     public interface IDbInitializer
     {
-        void Initialize(DbContext context);
+        void Initialize(ProductsAppContext context);
     }
 }

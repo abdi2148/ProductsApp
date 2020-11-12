@@ -11,7 +11,7 @@ namespace ProductsApp.Infrastructure.SQLite.Data
     public class SqlServerDbInitializer : IDbInitializer
     {
         // This method will cre<ate and seed the database.
-        public void Initialize(Infrastructure.Data.DbContext context)
+        public void Initialize(ProductsAppContext context)
         {
             // Create the database, if it does not already exists. If the database
             // already exists, no action is taken (and no effort is made to ensure it

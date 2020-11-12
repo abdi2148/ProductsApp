@@ -6,9 +6,9 @@ using System.Text;
 
 namespace ProductsApp.Infrastructure.Data
 {
-    public class DbContext : Microsoft.EntityFrameworkCore.DbContext
+    public class ProductsAppContext : DbContext
     {
-        public DbContext(DbContextOptions<DbContext> options) 
+        public ProductsAppContext(DbContextOptions<ProductsAppContext> options) 
             : base(options) { }
 
         public DbSet<Product> Products { get; set; }
