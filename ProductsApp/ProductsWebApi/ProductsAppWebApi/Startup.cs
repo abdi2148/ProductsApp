@@ -84,22 +84,6 @@ namespace ProductsAppWebApi
                     })
             );
 
-            //Register the Swagger generator using Swashbuckle.
-            services.AddSwaggerGen(c =>
-            {
-                c.SwaggerDoc("v1", new OpenApiInfo
-                {
-                    Version = "v1",
-                    Title = "Product WebApi",
-                    Description = "A simple example ASP.NET Core Web API"
-                });
-
-                // Set the comments path for the Swagger JSON and UI.
-                var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
-                var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
-                c.IncludeXmlComments(xmlPath);
-            });
-
             services.AddControllers();
         }
 

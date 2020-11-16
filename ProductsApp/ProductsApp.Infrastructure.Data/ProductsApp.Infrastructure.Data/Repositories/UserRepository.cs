@@ -9,10 +9,16 @@ namespace ProductsApp.Infrastructure.Data.Repositories
     public class UserRepository : IUserRepository
     {
         readonly ProductsAppContext _context;
+
         public UserRepository(ProductsAppContext context)
         {
             _context = context;
         }
+        public IEnumerable<User> ReadAllUsers()
+        {
+            return _context.Users;
+        }
+
         public User CreateUser(User user)
         {
             throw new NotImplementedException();
@@ -31,11 +37,6 @@ namespace ProductsApp.Infrastructure.Data.Repositories
         public List<User> GetUsers()
         {
             throw new NotImplementedException();
-        }
-
-        public IEnumerable<User> ReadAllUsers()
-        {
-            return _context.Users;
         }
 
         public User UpdateUser(User updateUser)

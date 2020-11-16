@@ -10,6 +10,7 @@ namespace ProductsApp.Infrastructure.Data
     public class DbInitializer : IDbInitializer
     {
 
+
         public void Initialize(ProductsAppContext context)
         {
             context.Database.EnsureDeleted();
@@ -50,6 +51,7 @@ namespace ProductsApp.Infrastructure.Data
                 {
                     Username = "Martin",
                     Password = password,
+
                     IsAdmin = false
 
                 }
